@@ -38,4 +38,4 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 
 ### Week 2
 
-#### Log Project
+#### [Log Project](https://github.com/NIKMIKIN/nology-coursework/tree/main/log_project)
