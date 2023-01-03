@@ -37,3 +37,5 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 #### SCSS
 
 ### Week 2
+
+#### Log Project
