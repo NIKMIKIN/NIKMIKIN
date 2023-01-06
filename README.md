@@ -38,4 +38,6 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 
 ### Week 2
 
+#### [Python Challenges](https://github.com/NIKMIKIN/nology-coursework/tree/main/python_practice_code)
+
 #### [Log Project](https://github.com/NIKMIKIN/nology-coursework/tree/main/log_project)
