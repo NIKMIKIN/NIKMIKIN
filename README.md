@@ -30,11 +30,15 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 
 #### HTML - Link to separate repo containing challenges, this repo should contain a readme that has screenshots of project and an overview of what you learned in class. Remember screenshots!
 
+#### [Accessibility Challenge](https://github.com/NIKMIKIN/nology-coursework/tree/main/accessibility)
+
 #### CSS 
 
 #### [Flexbox & Grid](https://github.com/NIKMIKIN/nology-coursework/tree/main/Profile%20tab%20Challenge)
 
 #### SCSS
+
+#### [SCSS mini project](https://github.com/NIKMIKIN/nology-coursework/tree/main/SCSS-starter)
 
 ### Week 2
 
