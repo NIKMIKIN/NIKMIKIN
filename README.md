@@ -32,7 +32,7 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 
 #### CSS 
 
-#### Flexbox & Grid
+#### [Flexbox & Grid](https://github.com/NIKMIKIN/nology-coursework/tree/main/Profile%20tab%20Challenge)
 
 #### SCSS
 
