@@ -45,3 +45,9 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 #### [Python Challenges](https://github.com/NIKMIKIN/nology-coursework/tree/main/python_practice_code)
 
 #### [Log Project](https://github.com/NIKMIKIN/nology-coursework/tree/main/log_project)
+
+### Week 3
+
+#### [First Flask Project](https://github.com/NIKMIKIN/nology-coursework/tree/main/hello-flask)
+
+#### [Second Flask Project](https://github.com/NIKMIKIN/nology-coursework/tree/master)
