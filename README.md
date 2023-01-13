@@ -42,9 +42,15 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 
 ### Week 2
 
-#### [Python Challenges](https://github.com/NIKMIKIN/nology-coursework/tree/main/python_practice_code)
+####1. [Python Challenges](https://github.com/NIKMIKIN/nology-coursework/tree/main/python_practice_code)
+      a. lists, tuples, and dictionaries:  
+      &emsp; practice.py  
+      b. classes, namedtuples, and entry points:  
+      &emsp; classes.py, namedtuples.py, and entry_points.py  
+      c. functions(filter, map, reduce, palindrome) and challenges:  
+      &emsp; type_practice.py and challenge.py  
 
-#### [Log Project](https://github.com/NIKMIKIN/nology-coursework/tree/main/log_project)
+####2. [Log Project](https://github.com/NIKMIKIN/nology-coursework/tree/main/log_project)
 
 ### Week 3
 
