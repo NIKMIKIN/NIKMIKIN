@@ -24,21 +24,30 @@ When I'm not coding, I am spending my time lifting or watching the latest movies
 
 Here's an example project readme - [Example ReadMe](https://github.com/nology-tech/Example-RM)
 
-## My Work - This should be where you link to the code your challenge solutions
+## My Work 
 
 ### Week 1
 
 #### HTML - Link to separate repo containing challenges, this repo should contain a readme that has screenshots of project and an overview of what you learned in class. Remember screenshots!
 
 #### [Accessibility Challenge](https://github.com/NIKMIKIN/nology-coursework/tree/main/accessibility)
+    Web Form Page built using HTML & CSS
+   ![image](https://user-images.githubusercontent.com/25696415/212391907-f90a8e01-ebfd-49c0-b9bd-468d3666a295.png)
+
 
 #### CSS 
 
 #### [Flexbox & Grid](https://github.com/NIKMIKIN/nology-coursework/tree/main/Profile%20tab%20Challenge)
+    Web Profile Page built using HTML & CSS
+   ![image](https://user-images.githubusercontent.com/25696415/212392064-a2bcbee3-7ce4-49c3-9ff1-cf7493f1d28c.png)
+
 
 #### SCSS
 
 #### [SCSS mini project](https://github.com/NIKMIKIN/nology-coursework/tree/main/SCSS-starter)
+    Web Page implementing buttons using HTML, CSS, & SCSS
+   ![image](https://user-images.githubusercontent.com/25696415/212392233-b0dcbe2a-727f-46eb-9d44-da722e525ebb.png)
+
 
 ### Week 2
 1.
@@ -61,5 +70,10 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 ### Week 3
 
 #### [First Flask Project](https://github.com/NIKMIKIN/nology-coursework/tree/main/hello-flask)
+    First Project implementing Flask, HTML, & CSS
 
 #### [Second Flask Project](https://github.com/NIKMIKIN/nology-coursework/tree/master)
+    Flask project using API's SQL, Flask, & Python
+    Requires Postman to test endpoints
+   ![image](https://user-images.githubusercontent.com/25696415/211117986-96dda38d-98b6-4bb1-a7e3-61bbafa9a513.png)
+   ![image](https://user-images.githubusercontent.com/25696415/211117997-391c88f9-955b-4bb7-a553-2ba5f603274c.png)
