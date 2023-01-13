@@ -32,25 +32,24 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 
 #### [Accessibility Challenge](https://github.com/NIKMIKIN/nology-coursework/tree/main/accessibility)
     Web Form Page built using HTML & CSS
-   ![image](https://user-images.githubusercontent.com/25696415/212391907-f90a8e01-ebfd-49c0-b9bd-468d3666a295.png)
+  <!-- ![image](https://user-images.githubusercontent.com/25696415/212391907-f90a8e01-ebfd-49c0-b9bd-468d3666a295.png)-->
 
 
 #### CSS 
 
 #### [Flexbox & Grid](https://github.com/NIKMIKIN/nology-coursework/tree/main/Profile%20tab%20Challenge)
     Web Profile Page built using HTML & CSS
-   ![image](https://user-images.githubusercontent.com/25696415/212392064-a2bcbee3-7ce4-49c3-9ff1-cf7493f1d28c.png)
+  <!-- ![image](https://user-images.githubusercontent.com/25696415/212392064-a2bcbee3-7ce4-49c3-9ff1-cf7493f1d28c.png) -->
 
 
 #### SCSS
 
 #### [SCSS mini project](https://github.com/NIKMIKIN/nology-coursework/tree/main/SCSS-starter)
     Web Page implementing buttons using HTML, CSS, & SCSS
-   ![image](https://user-images.githubusercontent.com/25696415/212392233-b0dcbe2a-727f-46eb-9d44-da722e525ebb.png)
+  <!-- ![image](https://user-images.githubusercontent.com/25696415/212392233-b0dcbe2a-727f-46eb-9d44-da722e525ebb.png) -->
 
 
 ### Week 2
-1.
 #### [Python Challenges](https://github.com/NIKMIKIN/nology-coursework/tree/main/python_practice_code)
     PYTHON PRACTICE CODE
     Topics covered:
@@ -61,7 +60,6 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
     - Lists & Loops
     - Tuples
       
-2.
 #### [Log Project](https://github.com/NIKMIKIN/nology-coursework/tree/main/log_project)
     a. Log_project.py
     b. treasureLog.csv & treasureLog.log
