@@ -43,12 +43,15 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 ### Week 2
 1.
 #### [Python Challenges](https://github.com/NIKMIKIN/nology-coursework/tree/main/python_practice_code)
-      a. lists, tuples, and dictionaries:  
-      &emsp; practice.py  
-      b. classes, namedtuples, and entry points:  
-      &emsp; classes.py, namedtuples.py, and entry_points.py  
-      c. functions(filter, map, reduce, palindrome) and challenges:  
-      &emsp; type_practice.py and challenge.py  
+    PYTHON PRACTICE CODE
+    Topics covered:
+    - Classes & Object Oriented Programming
+    - Entry Points
+    - Files & CSV
+    - Functions_Lambdas
+    - Lists & Loops
+    - Tuples
+      
 2.
 #### [Log Project](https://github.com/NIKMIKIN/nology-coursework/tree/main/log_project)
     a. Log_project.py
