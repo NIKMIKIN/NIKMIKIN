@@ -75,5 +75,4 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 #### [Second Flask Project](https://github.com/NIKMIKIN/nology-coursework/tree/master)
     Flask project using API's SQL, Flask, & Python
     Requires Postman to test endpoints
-   ![image](https://user-images.githubusercontent.com/25696415/211117986-96dda38d-98b6-4bb1-a7e3-61bbafa9a513.png)
-   ![image](https://user-images.githubusercontent.com/25696415/211117997-391c88f9-955b-4bb7-a553-2ba5f603274c.png)
+  ![image](https://user-images.githubusercontent.com/25696415/211118008-fe524195-dc49-4f48-aefb-32db6e9214db.png)
