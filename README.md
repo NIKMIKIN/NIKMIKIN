@@ -3,8 +3,7 @@
 Nice to meet you! I'm Nik, a Software engineer based in San Diego.
 
 ## A Little About Me
-Python is my typical language of choice. I build full stack web applications and always strive to improve my knowledge by building cool projects.
-When I'm not coding, I am spending my time lifting or watching the latest movies in theatres.
+I've been programming since 2018, with my experience coming from online courses all over the interent. Before programming I was really into music and performed as a percussionist for a few years. I love to build web applications and always strive to improve my knowledge by building cool projects (front-end/back-end). When I'm not coding, I am spending my time hitting the gym or watching the latest movies in theatres.
 
  
 ## My Projects 
@@ -73,4 +72,5 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 #### [Second Flask Project](https://github.com/NIKMIKIN/nology-coursework/tree/master)
     Flask project using API's SQL, Flask, & Python
     Requires Postman to test endpoints
+    Example below is testing the average_temperature endpoint and calculating via postgreSQL
   ![image](https://user-images.githubusercontent.com/25696415/211118008-fe524195-dc49-4f48-aefb-32db6e9214db.png)
