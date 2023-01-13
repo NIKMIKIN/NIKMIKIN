@@ -42,7 +42,7 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 
 ### Week 2
 1.
-####[Python Challenges](https://github.com/NIKMIKIN/nology-coursework/tree/main/python_practice_code)
+#### [Python Challenges](https://github.com/NIKMIKIN/nology-coursework/tree/main/python_practice_code)
       a. lists, tuples, and dictionaries:  
       &emsp; practice.py  
       b. classes, namedtuples, and entry points:  
@@ -50,7 +50,7 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
       c. functions(filter, map, reduce, palindrome) and challenges:  
       &emsp; type_practice.py and challenge.py  
 2.
-####[Log Project](https://github.com/NIKMIKIN/nology-coursework/tree/main/log_project)
+#### [Log Project](https://github.com/NIKMIKIN/nology-coursework/tree/main/log_project)
       a. Log_project.py
       b. treasureLog.csv & treasureLog.log
       ![image](https://user-images.githubusercontent.com/25696415/211115262-41d32efa-050d-47fa-8082-bce07fe1fd59.png)
