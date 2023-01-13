@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-Nice to meet you! I'm Nik, a Software engineer based in San Diego.
+Nice to meet you! I'm Nik, a Software engineer based in San Diego. Soon to be Junior Test Engineer at ASML
 
 ## A Little About Me
-I've been programming since 2018, with my experience coming from online courses all over the interent. Before programming I was really into music and performed as a percussionist for a few years. I love to build web applications and always strive to improve my knowledge by building cool projects (front-end/back-end). When I'm not coding, I am spending my time hitting the gym or watching the latest movies in theatres.
+
+I've been programming since 2018, but fully putting my all into my software engineering journey this past year and a half. I love working with Python specifically, but have also worked with languages such as C++, Javascript, Java, HTML, and CSS. Before programming I was really into music and performed as a percussionist for a few years. I love to build web applications and always strive to improve my knowledge by building cool projects (front-end/back-end). When I'm not coding, I am spending my time hitting the gym or watching the latest movies in theatres.
 
  
 <!-- ## My Projects 
