@@ -6,28 +6,28 @@ Nice to meet you! I'm Nik, a Software engineer based in San Diego.
 I've been programming since 2018, with my experience coming from online courses all over the interent. Before programming I was really into music and performed as a percussionist for a few years. I love to build web applications and always strive to improve my knowledge by building cool projects (front-end/back-end). When I'm not coding, I am spending my time hitting the gym or watching the latest movies in theatres.
 
  
-## My Projects 
+<!-- ## My Projects 
 
 <!-- 1. <a target=_blank href=https://github.com/ashryan/BitTracker>BitTracker</a> - A Crypto Currency portfolio tracker built using React, Firebase and the Coin Gecko API
 2. <a target=_blank href=https://github.com/ashryan/block-runner>Block Runner</a> - A browser game built in vanilla JavaScript
 3. <a target=_blank href=https://github.com/ashryan/morse-translator>Morse Translator</a> - A Morse to English and English to Morse translater built in JS
 4. <a target=_blank href=https://github.com/ashryan/calculator>JS Calculator</a> - A browser based calculator built in JS. -->
 
-### All projects should containing a readme explaining, 
+<!--### All projects should containing a readme explaining, 
 1. What the project does
 2. Requirements
 3. How to use it, installation steps etc
 4. Technologies used
 5. Considerations you had to make (how you approached the project)
-6. All this should be backed up by screenshots
+6. All this should be backed up by screenshots 
 
-Here's an example project readme - [Example ReadMe](https://github.com/nology-tech/Example-RM)
+Here's an example project readme - [Example ReadMe](https://github.com/nology-tech/Example-RM)-->
 
 ## My Work 
 
 ### Week 1
 
-#### HTML - Link to separate repo containing challenges, this repo should contain a readme that has screenshots of project and an overview of what you learned in class. Remember screenshots!
+#### HTML 
 
 #### [Accessibility Challenge](https://github.com/NIKMIKIN/nology-coursework/tree/main/accessibility)
     Web Form Page built using HTML & CSS
