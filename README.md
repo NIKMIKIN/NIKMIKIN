@@ -78,7 +78,7 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 
 ### Week 4
 
-#### [Zoo Inventory Project] (https://github.com/NIKMIKIN/Zoo-flask-project)
+#### [Zoo Inventory Project](https://github.com/NIKMIKIN/Zoo-flask-project)
     Flask Project using API's, SQL, FLask, & Python
     Requires Postman to test endpoitns
     Displays testing w/ proper documentation
