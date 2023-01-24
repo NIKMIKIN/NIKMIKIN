@@ -71,7 +71,16 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
     First Project implementing Flask, HTML, & CSS
 
 #### [Second Flask Project](https://github.com/NIKMIKIN/nology-coursework/tree/master)
-    Flask project using API's SQL, Flask, & Python
+    Flask project using API's, SQL, Flask, & Python
     Requires Postman to test endpoints
     Example below is testing the average_temperature endpoint and calculating via postgreSQL
   ![image](https://user-images.githubusercontent.com/25696415/211118008-fe524195-dc49-4f48-aefb-32db6e9214db.png)
+
+### Week 4
+
+#### [Zoo Inventory Project] (https://github.com/NIKMIKIN/Zoo-flask-project)
+    Flask Project using API's, SQL, FLask, & Python
+    Requires Postman to test endpoitns
+    Displays testing w/ proper documentation
+    Example below shows reference to animal in enclosure with proper id
+   ![image](https://user-images.githubusercontent.com/25696415/214392557-9d640ff6-4b54-4384-aa1a-7273412095d8.png)
