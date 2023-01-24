@@ -80,7 +80,7 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
 
 #### [Zoo Inventory Project](https://github.com/NIKMIKIN/Zoo-flask-project)
     Flask Project using API's, SQL, FLask, & Python
-    Requires Postman to test endpoitns
+    Requires Postman to test endpoints
     Displays testing w/ proper documentation
     Example below shows reference to animal in enclosure with proper id
    ![image](https://user-images.githubusercontent.com/25696415/214392557-9d640ff6-4b54-4384-aa1a-7273412095d8.png)
