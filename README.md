@@ -84,3 +84,11 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
     Displays testing w/ proper documentation
     Example below shows reference to animal in enclosure with proper id
    ![image](https://user-images.githubusercontent.com/25696415/214392557-9d640ff6-4b54-4384-aa1a-7273412095d8.png)
+   
+### Week 6
+
+#### [Manufacture-Machinery-Parts-Inventory-Project] (https://github.com/NIKMIKIN/manufacture-machinery-parts-inventory)
+    Flask Poject using API's, MongoDb, Flask, & Python
+    Requires Postman to test endpoints
+    Displays proper TDD
+    
