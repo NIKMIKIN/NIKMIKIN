@@ -87,7 +87,7 @@ Here's an example project readme - [Example ReadMe](https://github.com/nology-te
    
 ### Week 6
 
-#### [Manufacture-Machinery-Parts-Inventory-Project] (https://github.com/NIKMIKIN/manufacture-machinery-parts-inventory)
+#### [Manufacture-Machinery-Parts-Inventory-Project](https://github.com/NIKMIKIN/manufacture-machinery-parts-inventory)
     Flask Poject using API's, MongoDb, Flask, & Python
     Requires Postman to test endpoints
     Displays proper TDD
