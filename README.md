@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Nice to meet you! I'm Nik, a Software engineer based in San Diego. Soon to be Junior Test Engineer at ASML
+Nice to meet you! I'm Nik, a Software engineer at ASML
 
 ## A Little About Me
 
